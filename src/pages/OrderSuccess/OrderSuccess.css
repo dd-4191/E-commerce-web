@@ -1,0 +1,30 @@
+.order-success-container {
+  text-align: center;
+  margin-top: 100px;
+  padding: 2rem;
+}
+
+.order-success-container h2 {
+  color: #4caf50;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.order-success-container p {
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+}
+
+.continue-btn {
+  background-color: #ff5722;
+  color: white;
+  padding: 0.8rem 2rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.continue-btn:hover {
+  background-color: #e64a19;
+}

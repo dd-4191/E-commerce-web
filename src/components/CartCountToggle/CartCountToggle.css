@@ -1,0 +1,23 @@
+.cart-count-toggle {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 1rem 0;
+}
+
+.cart-count-toggle button {
+  background: none;
+  border: 1px dashed black;
+  padding: 12px 8px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: black;
+}
+
+.cart-count-toggle span {
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+}

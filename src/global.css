@@ -1,0 +1,40 @@
+:root {
+  --primary-color: #000;
+  --secondary-color: #ff4d4d;
+  --background-color: #f4f4f4;
+  --text-color: #333;
+  --font-family: "Arial", sans-serif;
+  --font-size: 16px;
+  --font-weight: 400;
+  --border-radius: 5px;
+  --box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  --transition: all 0.3s ease;
+  --padding: 10px;
+  --margin: 10px;
+  --max-width: 1200px;
+  --flex-center: center;
+  --flex-column: column;
+  --flex-row: row;
+  --flex-wrap: wrap;
+  --flex-justify: space-between;
+  --flex-align: center;
+  --flex-gap: 10px;
+  --grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  --grid-gap: 20px;
+  --grid-template-areas: "header header header" "main main sidebar"
+    "footer footer footer";
+  --grid-area-header: header;
+  --grid-area-main: main;
+  --grid-area-sidebar: sidebar;
+  --grid-area-footer: footer;
+  --grid-area-item: item;
+  --grid-area-title: title;
+  --grid-area-description: description;
+  --grid-area-price: price;
+  --grid-area-button: button;
+  --grid-area-image: image;
+  --grid-area-link: link;
+  --grid-area-cart: cart;
+  --grid-area-cart-item: cart-item;
+  --grid-area-cart-title: cart-title;
+}
