@@ -10,12 +10,12 @@ import Login from "./pages/login/Login";
 import Footer from "./components/footer/Footer";
 import Register from "./pages/register/Register";
 import ProductDetails from "./pages/singleProduct/ProductDetails";
-import ErrorPage from "./pages/error/errorPage";
-import ProtectedRoute from "./components/ProtectedRoute/ProtectedRoute";
+
 import { ToastContainer } from "react-toastify";
 import Checkout from "./pages/Checkout/Checkout";
 import OrderSuccess from "./pages/OrderSuccess/OrderSuccess";
 import Profile from "./pages/Profile/Profile";
+import ErrorPage from "./pages/error/ErrorPage";
 
 const App = () => {
   return (
